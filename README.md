@@ -1,2 +1,9 @@
-# datasheets
-Datasheets of Ingenic SoCs
+# Datasheets
+Datasheets of Ingenic SoCs.
+
+## Notes
+We don't have "confidential" watermarks on each page. Distribute as you want!
+
+
+JZ4780, X1021, X1800, X1830 are already EOL.
+
