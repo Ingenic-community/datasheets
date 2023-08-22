@@ -17,8 +17,15 @@ We don't have "confidential" watermarks on each page. Distribute as you want!
 
 
 ### Confirmed EOL list
-- JZ4780
-- X1021
-- X1800
-- X1830
+**JZ series**
+
+JZ4740, JZ4725(B), JZ4770, JZ4775, JZ4780
+
+**M series**
+
+M150
+
+**X series**
+
+X1021, X1520, X1800, X1830
 
