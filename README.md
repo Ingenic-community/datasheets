@@ -1,9 +1,18 @@
 # Datasheets
-Datasheet collection of Ingenic SoCs.
+Datasheet collection of chips made by **Ingenic Beijing HQ**.
 
+This repo will **NOT** include any document related to the **T series** chips made by **Ingenic Hefei division**, which are **absolutely proprietary**.
+
+**北京君正**的芯片文档合集。
+
+此仓库将**不会**收录由**合肥君正**制造的**T系列**芯片的文档。这些芯片是**完全私有且不开放**的。
+
+您可以在 [http://docs.ingenic.com.cn/](http://docs.ingenic.com.cn/) 查看更多中文文档和教程。
 
 ## Notes
 We don't have "confidential" watermarks on each page. Distribute as you want!
+
+文档内是没有水印的。可以自由分发！
 
 ## Contents
 | **I have a...** | **Datasheet**                           | **Programming Manual**                            |
